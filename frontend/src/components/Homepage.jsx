@@ -214,7 +214,7 @@ const Homepage = () => {
       } else {
         setSearchResult([]);
       }
-    }, 300); // 300ms delay for debouncing
+    }, 500); // 300ms delay for debouncing
   };
 
   // Handle symbol selection
