@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "json2csv": "^6.0.0-alpha.2",
+    "papaparse": "^5.4.1",
+    "path": "^0.12.7",
+    "smartapi-javascript": "^1.0.27",
+    "ws": "^8.18.0"
+  }
+}
